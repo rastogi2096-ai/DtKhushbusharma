@@ -12,7 +12,7 @@ const config: Config = {
         soft: "0 10px 25px -10px rgba(0,0,0,0.15)"
       },
       keyframes: {
-        fadeIn: { "0%": { opacity: 0 }, "100%": { opacity: 1 } },
+        fadeIn: { "0%": { opacity: "0" }, "100%": { opacity: "`" } },
         float: { "0%,100%": { transform: "translateY(0)" }, "50%": { transform: "translateY(-4px)" } },
         marquee: { "0%": { transform: "translateX(0)" }, "100%": { transform: "translateX(-50%)" } }
       },
