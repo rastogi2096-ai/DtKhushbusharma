@@ -2,14 +2,14 @@ import Image from "next/image";
 
 // Update this array to use your actual filenames from public/transformation folder
 const images = [
-  "/transformation/t1.jpg",
-  "/transformation/t2.jpg",
-  "/transformation/t3.jpg",
-  "/transformation/t4.jpg",
-  "/transformation/t5.jpg",
-  "/transformation/t6.jpg",
-  "/transformation/t7.jpg",
-  "/transformation/t8.jpg"
+  "/Transformation/t1.jpg",
+  "/Transformation/t2.jpg",
+  "/Transformation/t3.jpg",
+  "/Transformation/t4.jpg",
+  "/Transformation/t5.jpg",
+  "/Transformation/t6.jpg",
+  "/Transformation/t7.jpg",
+  "/Transformation/t8.jpg"
 ];
 
 export default function Transformations() {

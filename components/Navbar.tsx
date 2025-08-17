@@ -25,7 +25,7 @@ export default function Navbar(){
   <div className="container max-w-screen-2xl flex items-center py-3">
         <Link href="/" className="flex items-center gap-2 shrink-0">
           <Image
-            src="/new logo khushbu.jpeg"
+            src="/new Logo Khushbu.jpeg"
             alt="Dt. Khushbu Sharma Logo"
             width={150}
             height={150}
