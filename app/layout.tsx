@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata = {
-  title: "Dt. Khushbu Sharma",
-  description: "A Next.js template inspired by a nutrition & diet consultation website.",
-  icons: [{ rel: "icon", url: "/favicon.ico" }]
+  title: "Dietician Khushbu Sharma",
+  description: "Dietician Khushbu Sharma - Trusted Nutrition Coaching",
+  icons: [{ rel: "icon", url: "/new Logo Khushbu.ico" }]
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
