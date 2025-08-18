@@ -38,7 +38,7 @@ export default function Home(){
         <div className="container py-8 flex flex-col sm:flex-row items-center justify-between gap-3">
           <div className="flex items-center gap-2">
             <Image
-              src="/new logo khushbu.jpeg"
+              src="/new Logo Khushbu.jpeg"
               alt="Dietician Khushbu Sharma Logo"
               width={200}
               height={200}
